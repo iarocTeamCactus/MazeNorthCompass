@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Compass2</string>
+    <string name="hello">Hello</string>
+    <string name="maze_north">Maze North Compass</string>
+    <string name="standard_compass">Compass</string>
+    <string name="button_text">Set Maze North</string>
+
+</resources>
